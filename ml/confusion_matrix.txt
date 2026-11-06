@@ -1,0 +1,5 @@
+# rows=true, cols=predicted: calm touch machine tamper
+599 1 0 0
+4 596 0 0
+0 0 595 5
+0 0 1 599

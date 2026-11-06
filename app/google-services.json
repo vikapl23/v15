@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "409416703833",
+    "firebase_url": "https://smart-vibro-15-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smart-vibro-15",
+    "storage_bucket": "smart-vibro-15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409416703833:android:dd7a49f960fd8249c6b648",
+        "android_client_info": {
+          "package_name": "com.lab.vibrationanalyzer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcZ7Eo0aQ67mR-6SQDMxJhn8AwEKGRUOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
